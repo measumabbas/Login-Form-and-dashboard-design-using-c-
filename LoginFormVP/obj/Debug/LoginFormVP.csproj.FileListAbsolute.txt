@@ -1,0 +1,11 @@
+c:\users\prime\documents\visual studio 2013\Projects\LoginFormVP\LoginFormVP\bin\Debug\LoginFormVP.exe.config
+c:\users\prime\documents\visual studio 2013\Projects\LoginFormVP\LoginFormVP\bin\Debug\LoginFormVP.exe
+c:\users\prime\documents\visual studio 2013\Projects\LoginFormVP\LoginFormVP\bin\Debug\LoginFormVP.pdb
+c:\users\prime\documents\visual studio 2013\Projects\LoginFormVP\LoginFormVP\obj\Debug\LoginFormVP.csprojResolveAssemblyReference.cache
+c:\users\prime\documents\visual studio 2013\Projects\LoginFormVP\LoginFormVP\obj\Debug\LoginFormVP.Form1.resources
+c:\users\prime\documents\visual studio 2013\Projects\LoginFormVP\LoginFormVP\obj\Debug\LoginFormVP.Properties.Resources.resources
+c:\users\prime\documents\visual studio 2013\Projects\LoginFormVP\LoginFormVP\obj\Debug\LoginFormVP.csproj.GenerateResource.Cache
+c:\users\prime\documents\visual studio 2013\Projects\LoginFormVP\LoginFormVP\obj\Debug\LoginFormVP.exe
+c:\users\prime\documents\visual studio 2013\Projects\LoginFormVP\LoginFormVP\obj\Debug\LoginFormVP.pdb
+C:\Users\prime\Documents\Visual Studio 2013\Projects\LoginFormVP\LoginFormVP\obj\Debug\LoginFormVP.Form2.resources
+C:\Users\prime\Documents\Visual Studio 2013\Projects\LoginFormVP\LoginFormVP\obj\Debug\LoginFormVP.Form3.resources
